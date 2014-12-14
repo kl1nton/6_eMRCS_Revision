@@ -50,14 +50,20 @@ Please select the most likely diagnosis for the lesion described. Each option ma
 
 ### Q4
 A 42 year old lady who has systemic lupus erythematosus presents to the clinic with a 5 day history of a painful purple lesion on her index finger. On examination she has a tender red lesion on the index finger. 
-#### Answer: 
+
+#### Answer: Osler's nodes - TRUE
+Osler nodes are normally described as tender, purple/red raised lesions with a pale centre. These lesions occur as a result of immune complex deposition. These occur most often in association with endocarditis. However, other causes include SLE, gonorrhoea, typhoid and haemolytic anaemia.
 
 ### Q5
 A 62 year old lady presents with an non tender lump overlying the distal interphalangeal joint of the index finger. On examination she has a hard, non tender lump overlying the joint and deviation of the tip of the finger.
-#### Answer: 
+
+#### Answer: Heberdens nodes - TRUE
+Heberdens nodes may produce swelling of the distal interphalangeal joint with deviation of the finger tip.
 
 ### Q6
 A 17 year old boy is brought to the clinic by his mother who is concerned about a lesion that has developed on the dorsal surface of his left hand. On examination he has a soft fluctuant swelling on the dorsal aspect of the hand, it is most obvious on making a fist.
-#### Answer: 
+
+#### Answer: I. Ganglion - TRUE
+Ganglions commonly occur in the hand and are usually associated with tendons. They are typically soft and fluctuant. They do not require removal unless they are atypical or causing symptoms.
 
 ===

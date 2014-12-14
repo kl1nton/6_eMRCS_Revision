@@ -66,4 +66,32 @@ A 17 year old boy is brought to the clinic by his mother who is concerned about 
 #### Answer: I. Ganglion - TRUE
 Ganglions commonly occur in the hand and are usually associated with tendons. They are typically soft and fluctuant. They do not require removal unless they are atypical or causing symptoms.
 
+## Hand Diseases
+
+### Dupuytrens contracture
+- Fixed flexion contracture of the hand where the fingers bend towards the palm and cannot be fully extended.
+- Caused by underlying contractures of the palmar aponeurosis . The ring finger and little finger are the fingers most commonly affected. The middle finger may be affected in advanced cases, but the index finger and the thumb are nearly always spared.
+- Progresses slowly and is usually painless. In patients with this condition, the tissues under the skin on the palm of the hand thicken and shorten so that the tendons connected to the fingers cannot move freely. The palmar aponeurosis becomes hyperplastic and undergoes contracture.
+- Commonest in males over 40 years of age.
+- Association with liver cirrhosis and alcoholism. However, many cases are idiopathic.
+- Treatment is surgical and involves fasciectomy. However, the condition may recur and many surgical therapies are associated with risk of neurovascular damage to the digital nerves and arteries.
+
+### Carpel tunnel syndrome
+- Idiopathic median neuropathy at the carpal tunnel.
+- Characterised by altered sensation of the lateral 3 fingers.
+- The condition is commoner in females and is associated with other connective tissue disorders such as rheumatoid disease. It may also occur following trauma to the distal radius.
+- Symptoms occur mainly at night in early stages of the condition.
+- Examination may demonstrate wasting of the muscles of the thenar eminence and symptoms may be reproduced by Tinels test (compression of the contents of the carpal tunnel).
+- Formal diagnosis is usually made by electrophysiological studies.
+- Treatment is by surgical decompression of the carpal tunnel, a procedure achieved by division of the flexor retinaculum. Non - surgical options include splinting and bracing.
+
+### Miscellaneous Hand Lumps
+
+Diagnosis | Description |
+---|---|
+Osler's nodes	| Osler's nodes are painful, red, raised lesions found on the hands and feet. They are the result of the deposition of immune complexes.
+Bouchards nodes	| Hard, bony outgrowths or gelatinous cysts on the proximal interphalangeal joints (the middle joints of fingers or toes.) They are a sign of osteoarthritis, and are caused by formation of calcific spurs of the articular cartilage.
+Heberdens nodes	| Typically develop in middle age, beginning either with a chronic swelling of the affected joints or the sudden painful onset of redness, numbness, and loss of manual dexterity. This initial inflammation and pain eventually subsides, and the patient is left with a permanent bony outgrowth that often skews the fingertip sideways. It typically affects the DIP joint.
+Ganglion	| Swelling in association with a tendon sheath commonly near a joint. They are common lesions in the wrist and hand. Usually they are asymptomatic and cause little in the way of functional compromise. They are fluid filled although the fluid is similar to synovial fluid it is slightly more viscous. When the cysts are troublesome they may be excised.
+
 ===

@@ -67,6 +67,61 @@ A 21 year old lady presents with a nodule on the posterior aspect of her right c
 #### Answer: Capillary cavernous haemangioma - *FALSE* = B. Dermatofibroma - TRUE
 - Dermatofibromas may be pigmented and are often larger than they appear. They frequently occur at sites of previous trauma.
 
+### Benign skin diseases
+
+#### Seborrhoeic keratosis
+- Most commonly arise in patients over the age of 50 years, often idiopathic
+- Equal sex incidence and prevalence
+- Usually multiple lesions over face and trunk
+- Flat, raised, filiform and pedunculated subtypes are recognised
+- Variable colours and surface may have greasy scale overlying it
+- Treatment options consist of leaving alone or simple shave excision
+
+#### Melanocytic naevi
+
+##### Congenital melanocytic naevi	
+- Typically appear at, or soon after, birth
+- Usually greater than 1cm diameter
+- Increased risk of malignant transformation (increased risk greatest for large lesions)
+
+##### Junctional melanocytic naevi	
+- Circular macules
+- May have heterogeneous colour even within same lesion
+- Most naevi of the palms, soles and mucous membranes are of this type
+
+##### Compound naevi	
+- Domed pigmented nodules up to 1cm in diameter
+- Arise from junctional naevi, usually have uniform colour and are smooth
+
+##### Spitz naevus	
+- Usually develop over a few months in children
+- May be pink or red in colour, most common on face and legs
+- May grow up to 1cm and growth can be rapid, this usually results in excision
+
+##### Atypical naevus syndrome	
+- Atypical melanocytic naevi that may be autosomally dominantly inherited
+- Some individuals are at increased risk of melanoma (usually have mutations of CDKN2A gene)
+- Many people with atypical naevus syndrome AND a parent sibling with melanoma will develop melanoma
+
+#### Epidermoid cysts
+- Common and affect face and trunk
+- They have a central punctum, they may contain small quantities of sebum
+- The cyst lining is either normal epidermis (epidermoid cyst) or outer root sheath of hair follicle (pilar cyst)
+
+#### Dermatofibroma
+- Solitary dermal nodules
+- Usually affect extremities of young adults
+- Lesions feel larger than they appear visually
+- Histologically they consist of proliferating fibroblasts merging with sparsely cellular dermal tissues
+
+#### Painful skin lesions
+- Eccrine spiradenoma
+- Neuroma
+- Glomus tumour
+- Leimyoma
+- Angiolipoma
+- Neurofibroma (rarely painful) and dermatofibroma (rarely painful)
+
 ## T3
 
 ## T4

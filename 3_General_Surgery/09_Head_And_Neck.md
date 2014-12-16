@@ -1,7 +1,28 @@
 eMRCS: General Surgery: 09 Head and Neck
 ======================================
 
-## T1: Theme: Parotid gland disease
+Q 		| Result 		| Error	|
+--------|---------------|-------|
+1-3 	| 3/3 	= 100% 	| Ø
+4-6		| 1/3 	=  33%	| 4, 5
+7		| 0/1 	=   0%	| 7
+8-10	| 3/3 	= 100%	| Ø
+11-13	| 3/3 	= 100%	| Ø
+14		| 1/1 	= 100%	| Ø
+15		| 0/1 	=   0%	| Ø
+16-18	| 2/3 	=  66%	| 17
+19-21	| 3/3 	= 100%	| Ø
+22		| 0/1 	= 100%	| 22
+23		| 0/1 	= 100%	| 23
+24		| 0/1 	= 100%	| 24
+25		| 1/1 	= 100%	| 25
+26		| 0/1 	=   0%	| Ø
+27		| 1/1 	= 100%	| 27
+28		| 0/1 	=   0%	| 28
+29-31	| 3/3 	= 100%	| Ø
+Total	| 21/31 =  68%	| --	|
+
+## Q1-Q3: Theme: Parotid gland disease
 
 A.	Pleomorphic adenoma
 B.	Adenoid cystic carcinoma
@@ -33,7 +54,7 @@ A 50 year old lady presents with symptoms of a dry mouth that has been present f
 - Theme from April 2014 exam
 - Most patients with Sjogrens present in the post menopausal years. Multi system involvement is common
 
-## T2: Theme: Disorders affecting the ear
+## Q4-6: Theme: Disorders affecting the ear
 
 A.	Acoustic neuroma
 B.	Otosclerosis
@@ -49,8 +70,8 @@ Please select the most likely underlying explanation for the disorder described.
 A 34 year old lady presents with a long standing offensive discharge from the ear and on examination is noted to have a reduction in her hearing of 40 decibels compared to the opposite side.
 
 #### Answer: F. Long standing perforation of the pars tensa - *FALSE* = E. Cholesteatoma - TRUE
-- Theme from January 2013 Exam
-- The combination of offensive discharge and hearing loss is strongly suggestive of cholesteatoma
+- *Theme from January 2013 Exam*
+- Combination of offensive discharge + hearing loss is strongly suggestive of cholesteatoma
 
 ### Q5
 A 4 year old is brought to the general practitioner by her mother. She has been distressed with ear pain for the past 14 hours. She is constantly touching and pulling at her ear. Whilst she is sat in the waiting room her mother notices a discharge of foul smelling fluid from the ear, following which the pain resolves.
@@ -104,7 +125,7 @@ Common congenital condition in which an epithelial defect forms around the exter
 Small sinuses require no treatment
 Deeper sinuses may become blocked and develop episodes of infection, they may be closely related to the facial nerve and are challenging to excise
 
-## T3
+## Q7
 A 46-year-old woman is referred to endocrine surgery for a possible thyroidectomy. She has a tender neck swelling. Blood results are as follows:
 
 TSH	<0.1 mU/l
@@ -122,8 +143,8 @@ What is the most likely diagnosis?
 
 	A.	Sick thyroid syndrome
 	B.	Acute bacterial thyroiditis
-		C.	Hashimoto's thyroiditis
-		D.	Subacute thyroiditis
+	C.	Hashimoto's thyroiditis
+	D.	Subacute thyroiditis
 	E.	Toxic multinodular goitre
 
 #### Answer:  C. Hashimoto's thyroiditis - *FALSE* = D.	Subacute thyroiditis - TRUE
@@ -159,7 +180,7 @@ Management
 During the hyperthyroid phase of illness beta blockers may manage symptoms
 As hypothyroidism develops patients may require thyroxine
 
-## T4: Theme: Voice disorders
+## Q8-10: Theme: Voice disorders
 
 A.	Vagus nerve injury
 B.	Thyroid nerve injury
@@ -227,32 +248,30 @@ I.	Maxillary sinusitis
 
 Please select the most likely diagnosis for the scenario given. Each option may be used once, more than once or not at all.
 
-11.	A 56 year old man presents with symptoms of nasal pain, anosmia and rhinorrhea. He has been well until recently and has worked as a wood carver for many years.
+### Q11
+A 56 year old man presents with symptoms of nasal pain, anosmia and rhinorrhea. He has been well until recently and has worked as a wood carver for many years.
 
- You answered Ethmoidal fracture 
+#### Answer: E. Ethmoidal fracture - TRUE
+- *Theme from September 2012 Exam*, *Theme from September 2013 Exam*
+- Nasopharyngeal cancer is strongly associated with wood work
+- Most cases require an occupational exposure of greater than 10 years and are adenocarcinomas on histology
+- Most cases are ethmoidal in origin (Hadfield E. Ann R Coll Surg Engl. 1970 June; 46(6): 301319)
 
-The correct answer is Ethmoid sinus cancer
+### Q12
+A 32 year old female presents with recurrent episodes of rhinorrhoea, the discharge is watery. She has a medical history of asthma and intolerance of aspirin. On examination she has multiple soft, semi-transparent polyps within her nasal cavity.
 
-Theme from September 2012 Exam
-Theme from September 2013 Exam
-Nasopharyngeal cancer is strongly associated with wood work. Most cases require an occupational exposure of greater than 10 years and are adenocarcinomas on histology. 
-Most cases are ethmoidal in origin (Hadfield E. Ann R Coll Surg Engl. 1970 June; 46(6): 301319)
-12.	A 32 year old female presents with recurrent episodes of rhinorrhoea, the discharge is watery. She has a medical history of asthma and intolerance of aspirin. On examination she has multiple soft, semi- transparent polyps within her nasal cavity.
+#### Answer: F. Nasal polyps - TRUE
+- The combination of nasal polyps and atopy is well described
+- Some cases will respond favourably to systemic steroids and avoid surgery
 
- Nasal polyps
+### Q13
+A child is brought to casualty complaining of a headache and a sensation of pressure between the eyes. On examination she is febrile with a smooth swelling overlying the superomedial aspect of the right eye. The eye is uncomfortable and there is a purulent discharge from the inner canthus.
 
-The combination of nasal polyps and atopy is well described. Some cases will respond favourably to systemic steroids and avoid surgery.
-13.	A child is brought to casualty complaining of a headache and a sensation of pressure between the eyes. On examination she is febrile with a smooth swelling overlying the superomedial aspect of the right eye. The eye is uncomfortable and there is a purulent discharge from the inner canthus.
-
- Ethmoidal sinusitis
-
-Ethmoidal sinusitis may spread to the periorbital tissues resulting in periorbital cellulitis. The superomedial distribution makes a maxillary sinusitis less likely.
-
-Next question
-
+#### Answer: H. Ethmoidal sinusitis - TRUE
+- Ethmoidal sinusitis may spread to the periorbital tissues resulting in periorbital cellulitis
+- The superomedial distribution makes a maxillary sinusitis less likely
 
 Diseases of nose and sinuses
-
 
 Benign Tumours
 Simple papillomas may be an incidental finding or present with obstructive symptoms. Excision under general anaesthesia is sufficient management.
@@ -281,33 +300,46 @@ Inflammation may progress to involve periorbital tissues. Ocular symptoms may oc
 CT scanning is the imaging modality of choice. Early cases may be managed with antibiotics. More severe cases usually require surgical drainage.
 
 ## Q14
-Which of the following statements relating to branchial cysts is untrue?
+Which of the following statements relating to branchial cysts is _untrue_?
 
-	A.	The greater auricular nerve may be divided during excision
-	B.	They typically occur in young adults
-		C.	They move upwards on swallowing
-		D.	They are rare over the age of 40 years
-	E.	They are usually located in the anterior triangle of the neck
+	A. The greater auricular nerve may be divided during excision
+	B. They typically occur in young adults
+	C. They move upwards on swallowing
+	D. They are rare over the age of 40 years
+	E. They are usually located in the anterior triangle of the neck
 
-Next question
-Nerves at risk during branchial cyst excision: Mandibular branch of facial nerve, greater auricular nerve and accessory nerve.
+### Answer: E. They are usually located in the anterior triangle of the neck - TRUE
+- Nerves at risk during branchial cyst excision
+	1. Mandibular branch of facial nerve
+	2. Greater auricular nerve
+	3. accessory nerve
 
-They do not move on swallowing. They should be diagnosed with caution in those aged >40 years, as lumps in this age group may in fact be metastatic disease from ENT malignancy.
+### Notes
+- They do not move on swallowing
+- They should be diagnosed with caution in those aged >40 years
+	- Lumps in this age group may in fact be metastatic disease from ENT malignancy
 
 ## Q15
 A 22 year old female attends clinic after noticing a painless neck lump. On examination she is noted to have bilateral thyroid masses and multicentric nodes near the base of the thyroid. Her corrected Ca is 2.18. What is the most likely diagnosis?
 
-	A.	Sporadic medullary carcinoma of the thyroid
-		B.	Medullary carcinoma of the thyroid associated with multiple endocrine neoplasia
-		C.	Follicular thyroid carcinoma
-	D.	Anaplastic thyroid carcinoma
-	E.	Toxic nodular goitre
+	A. Sporadic medullary carcinoma of the thyroid
+	B. Medullary carcinoma of the thyroid associated with multiple endocrine neoplasia
+	C. Follicular thyroid carcinoma
+	D. Anaplastic thyroid carcinoma
+	E. Toxic nodular goitre
 
-Next question
+### Answer: E. Toxic nodular goitre - *FALSE* = B. Medullary carcinoma of the thyroid associated with multiple endocrine neoplasia = TRUE
 
-Medullary thyroid cancer is a tumour of the parafollicular cells of the thyroid. Less than 10% of thyroid cancers are of this type. Patients typically present in children or young adults. Diarrhoea occurs in 30% of cases. Toxic nodular goitre are very rare. In sporadic medullary thyroid cancer, patients typically present with a unilateral solitary nodule and it tends to spread early to the neck lymph nodes. In association with multiple endocrine neoplasia (MEN) syndromes, medullary thyroid cancers are always bilateral and multicentric. It may be the presenting feature in MEN 2a and 2b; almost all MEN 2a patients develop medullary thyroid carcinoma. 
-
-
+- Medullary thyroid cancer is a tumour of the parafollicular cells of the thyroid
+	- Less than 10% of thyroid cancers are of this type
+	- Patients typically present in children or young adults
+	- Diarrhoea occurs in 30% of cases
+- Toxic nodular goitre are very rare
+- In sporadic medullary thyroid cancer, patients typically present with a unilateral solitary nodule and it tends to spread early to the neck lymph nodes
+- In association with multiple endocrine neoplasia (MEN) syndromes
+	- Medullary thyroid cancers are always bilateral and multicentric
+- It may be the presenting feature in MEN 2a and 2b
+	- Almost all MEN 2a patients develop medullary thyroid carcinoma
 
 Thyroid malignancy
 
@@ -337,7 +369,7 @@ Lymphoma
 These respond well to radiotherapy
 Radical surgery is unnecessary once the disease has been diagnosed on biopsy material. Such biopsy material is not generated by an FNA and thus a core biopsy has to be obtained (with care!).
 
-##
+## Q16-18
 Theme: Parotid gland disorders
 
 A.	Sialectasis
@@ -351,26 +383,27 @@ H.	Warthins tumour
 
 Please select the most likely diagnosis for the scenario given. Each option may be used once, more than once or not at all.
 
-16.	A 40 year old lady with longstanding rheumatoid arthritis presents with a dry mouth and parotid gland swelling. Her symptoms transiently improved following administration of a course of steroids for her rheumatoid disease.
+### Q16
+A 40 year old lady with longstanding rheumatoid arthritis presents with a dry mouth and parotid gland swelling. Her symptoms transiently improved following administration of a course of steroids for her rheumatoid disease.
 
- Sjogren's syndrome
+#### E, Sjogren's syndrome - TRUE
+- *Theme from April 2012 Exam*
+- Sjogrens syndrome is linked to other autoimmune conditions such as rheumatoid disease
+- A transient improvement may be seen with steroid administration
+- Most patients are treated with artificial saliva
 
-Theme from April 2012 Exam
-Sjogrens syndrome is linked to other autoimmune conditions such as rheumatoid disease. A transient improvement may be seen with steroid administration. Most patients are treated with artificial saliva.
-17.	A 77 year old lady presents with facial pain and on examination is found to have clinical evidence of a facial nerve palsy and a parotid mass. Following surgical excision of the lesion the histological report comments on extensive perineural invasion.
+### Q17
+A 77 year old lady presents with facial pain and on examination is found to have clinical evidence of a facial nerve palsy and a parotid mass. Following surgical excision of the lesion the histological report comments on extensive perineural invasion.
 
- You answered Pleomorphic adenoma 
+#### B. Pleomorphic adenoma - *FALSE* = F. Adenoid cystic carcinoma - TRUE
+- Extensive perineural invasion is most commonly seen in patients with adenoid cystic carcinoma
+- Both Warthins tumours and mucoepidermoid carcinoma rarely show such marked perineural infiltration.
 
-The correct answer is Adenoid cystic carcinoma
+## Q18
+An 18 year old boy presents with pancreatitis. He has bilateral painful parotid enlargement.
 
-Extensive perineural invasion is most commonly seen in patients with adenoid cystic carcinoma. Both Warthins tumours and mucoepidermoid carcinoma rarely show such marked perineural infiltration.
-18.	An 18 year old boy presents with pancreatitis. He has bilateral painful parotid enlargement.
-
- Viral parotitis
-
-In a young adult with parotid swelling and pancreatitis/orchitis/reduced hearing/meningoencephalitis suspect mumps.
-
-Next question
+#### Answer: D. Viral parotitis - TRUE
+- In a young adult with parotid swelling and pancreatitis/orchitis/reduced hearing/meningoencephalitis suspect mumps
 
 
 Parotid gland clinical
@@ -460,8 +493,7 @@ Gland is not tender
 Xerostomia may occur
 Management of isolated parotid disease is usually conservative
 
-## 19-21
-Theme: Neck lumps
+## Q19-21: Theme: Neck lumps
 
 A.	Dermoid cyst
 B.	Thyroglossal cyst
@@ -479,8 +511,8 @@ Please select the most likely diagnosis for the scenario given. Each option may 
 A dentist treating a women with rheumatoid arthritis for recurrent episodes of dental sepsis notices that both parotid and submandibular glands are symmetrically enlarged.
 
 #### Answer: C. Sjogren's syndrome - TRUE
-
-Sjogren's is associated with autoimmune disorders. Mikulicz's is similar but there is no sicca or arthritis.
+- Sjogren's is associated with autoimmune disorders
+- Mikulicz's is similar but there is no sicca or arthritis
 
 ### Q20
 A patient presents with a facial nerve palsy. This occurred following repeat excision of a facial lump. The histology report remarks on the biphasic appearance of the lesion and mucinous connective tissue.
@@ -499,7 +531,7 @@ A patient is recovering from a Sistrunk's procedure, what lesion was treated wit
 - Excision must be complete
 	- thus a small segment of the hyoid bone is removed to gain access to the upper part of the cyst tract
 
-### Q22
+## Q22
 A 10 year old girl presents with epistaxis. From which of the following regions is the bleeding most likely to originate?
 
 	A. Posterior nasal space
@@ -585,7 +617,7 @@ Diagnosis usually involves fine needle aspiration cytology
 Imaging is with CT and MRI
 In view of the high prevalence of malignancy, all masses of the submandibular glands should generally be excised.
 
-## Q24
+### Q24
 A 36-year-old woman who presented with a goitre is diagnosed with autoimmune thyroiditis. Which one of the following types of thyroid cancer is she predisposed to developing?
 
 	A.	Anaplastic
@@ -625,7 +657,6 @@ Progressive hypothyroidism (and associated symptoms)
 ##### Management
 During the hyperthyroid phase of illness beta blockers may manage symptoms
 As hypothyroidism develops patients may require thyroxine
-
 
 ## Q25
 An elderly diabetic male presents with a severe deep seated otalgia and a facial nerve palsy, he has completed a course of amoxycillin with no benefit. What is the most likely diagnosis?
@@ -705,7 +736,7 @@ At which of the following time frames is _secondary haemorrhage_ most likely to 
 	D.	Upon resumption of normal feeding
 	E.	Between 2 and 3 days post operatively
 
-#### Answer: 
+#### Answer: E.	Between 2 and 3 days post operatively - *FALSE* = A.	Between 5 and 10 days after surgery - TRUE
 - Haemorrhage in the first 6 hours after surgery is termed reactionary haemorrhage
 - Feeding does not increase the risk and may actually lower the risks of infection developing
 
@@ -748,7 +779,7 @@ Left Bone > Air			|			| Conductive loss on left		| Combined loss on 	left
 Right Bone > Air		|			| Combined loss on right		| Conductive loss 	on right	
 Both Bone > Air			|			| Combined loss on right and conductive on left	| 	Combined loss on left and conductive on right
 
-## Theme: Head and Neck Lesions
+## Q29-31: Theme: Head and Neck Lesions
 
 	A. Dermoid cyst
 	B. Thyroglossal cyst
